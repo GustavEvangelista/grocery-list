@@ -4,7 +4,7 @@ export const Container = styled.div`
 background-color: #9daadd;
 padding: 20px;
 border-radius: 10px;
-font-family: Arial, Helvetica, sans-serif;
+
 
 h1 {
     color: #fff;
